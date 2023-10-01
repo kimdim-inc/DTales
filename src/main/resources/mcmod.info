@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dtales",
+  "name": "DTales",
+  "description": "Vanilla+ bla",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NoDMoon", "Verrok"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
